@@ -1,0 +1,5 @@
+<?php
+
+$link = "http://dutchybig.ovh/faucet.php?adcopy_response=for%20the%20dipper&adcopy_challenge=2@ITuCcFbaFfqY2Oqvsjo4f.xyydez8osO@Wr9AM9w-te8ENU8bgrSyuX9APTC4lJjoYkXxtpahhmzLm69GX4RQ7LFDN2lDmY-zzAv.WjNU2CRlJ6kfNiuHRpInAd9akBDcilKymlZ6Y6P4GMIcgm.0VMp0whfOWzJfqHGvi0lqk.vUYHwqPN3S8S8CR1k2I-vOpSo97rxb8VqkT15iD88lDuMN8td0narhfbfWt4oT3KtjENJnE9EKv06LOuuOf0a81Gi14acw49bXTFJ74a-yDz5.hKlfublYEfHnDEa3EeU.q2lTU4aCX6F2DoQnIg0UJkhFXIK0uoA&address=EC-UserId-43243&currency=TRX&key=799bcacb125822ce225dcf533e00561d"
+
+?>

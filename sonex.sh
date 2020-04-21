@@ -1,2 +1,2 @@
-cd /storage/emulated/0/Download/mining/sonex
+cd /sonex
 python bot.py

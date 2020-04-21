@@ -1,0 +1,11 @@
+v1.0
+-script released
+
+v1.5
+-bypass captcha
+-pemberitahuan limit harian
+
+v2.0
+-perubahan UI
+-fitur menu
+-bot roll-in

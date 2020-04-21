@@ -1,2 +1,2 @@
-cd faucetbr.tk
+cd faucet/faucetbr.tk
 php bot.php

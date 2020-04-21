@@ -1,2 +1,2 @@
-cd /scripts/sonex
+cd sonex
 python bot.py
